@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/04/10 12:24:18.000.347,E:\Projetos\API_Licenca\horse-master\samples\delphi\vcl\src\Main.Form.pas=</Transaction>
+    <Transaction>2021/04/10 12:24:32.000.416,=E:\Projetos\API_Licenca\horse-master\samples\delphi\vcl\src\Controle.pas</Transaction>
+    <Transaction>2021/04/10 12:33:39.000.565,E:\Projetos\API_Licenca\horse-master\samples\delphi\vcl\Co.dproj=E:\Projetos\API_Licenca\horse-master\samples\delphi\vcl\VCL.dproj</Transaction>
+    <Transaction>2021/04/10 12:34:05.000.065,E:\Projetos\API_Licenca\horse-master\samples\delphi\vcl\ApiLicenca.dproj=E:\Projetos\API_Licenca\horse-master\samples\delphi\vcl\Co.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
